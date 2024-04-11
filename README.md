@@ -1,6 +1,6 @@
 # SNMPlicity
 
-![Logo](https://github.com/ytisf/SNMPlicity/raw/gh-pages/SNMPlicityLogo.webp)
+[<img src="https://github.com/ytisf/SNMPlicity/raw/gh-pages/SNMPlicityLogoThumb.png">](https://github.com/ytisf/SNMPlicity)
 
 # DISCLAIMER !!!!
 **The SNMPlicity tool is developed for educational and ethical security auditing purposes only. It should only be used on networks and systems where explicit authorization has been obtained. Remember, with great power comes great responsibility: unauthorized use of this tool against any network or system without prior consent is illegal and strictly prohibited.**
